@@ -1,0 +1,11 @@
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\obj\Debug\SafeKeyLoggerDemo.csproj.AssemblyReference.cache
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\obj\Debug\SafeKeyLoggerDemo.Properties.Resources.resources
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\obj\Debug\SafeKeyLoggerDemo.csproj.GenerateResource.cache
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\obj\Debug\SafeKeyLoggerDemo.csproj.CoreCompileInputs.cache
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\obj\Debug\SafeKeyLoggerDemo.Form2.resources
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\bin\Debug\SafeKeyLoggerDemo.exe.config
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\bin\Debug\SafeKeyLoggerDemo.exe
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\bin\Debug\SafeKeyLoggerDemo.pdb
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\obj\Debug\SafeKeyLoggerDemo.exe
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\obj\Debug\SafeKeyLoggerDemo.pdb
+C:\Users\ÖMER\OneDrive\Masaüstü\C dersleri\SafeKeyLoggerDemo\SafeKeyLoggerDemo\obj\Debug\SafeKeyLoggerDemo.exe.config
